@@ -2,4 +2,11 @@ Cabeçalho: Aulão GIT e GitHub ProWay
 
 - Criando reposotórios
 
-- Comandos Básicos
+- Comandos Básicos:
+	-git init
+	-git clone (link do repositório)
+	-cd (caminho da pasta)
+	-git status
+	-git add 
+	-git commit
+	-git push
