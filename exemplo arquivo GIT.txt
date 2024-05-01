@@ -9,4 +9,4 @@ Cabeçalho: Aulão GIT e GitHub ProWay
 	-git status
 	-git add 
 	-git commit
-	-git push
+	-git push origin main
