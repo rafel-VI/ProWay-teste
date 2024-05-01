@@ -1,2 +1,2 @@
 # ProWay-teste
-terte na proway
+teste na proway
